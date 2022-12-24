@@ -7,8 +7,7 @@ In this function inputs $z$ can be values from the interval $-\infty < z < \inft
 In this function gives constant output as $1$ if inputs are positive and gives $0$ output if inputs are less than or equal to zero.
 ### 2. Softmax Function:
 $$soft(z)=\frac{exp(z)}{\sum (exp(z))}$$
-In this function gives constant output as $1$ if inputs are positive and gives $0$ output if inputs are less than or equal to zero.
-
+In this function gives outputs between $0$ and $1$ so that total of all outputs equals to 1 as it is the probilities of all inputs as outputs.
 ### 4. Relu Function:
 $$ReLu(x)=x,  x &gt; 0$$
     $$.           =0,  x &le; 0$$
