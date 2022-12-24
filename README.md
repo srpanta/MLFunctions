@@ -5,7 +5,7 @@ $$sigmoid(z)=\frac{1}{1+exp(-z)}$$
 In this function inputs $z$ can be values from the interval $-\infty < z < \infty$ while outputs are in the interval $0 &le; y &le; 1$.
 ### Hyperbolic tangent or tanh Function:
 $$y=tanh(z)$$
-In this function inputs $z$ can be values from the interval $-\infty < z < \infty$ while outputs are in the interval $0 &le; y &le; 1$.
+In this function inputs $z$ can be values from the interval $-\infty < z < \infty$ while outputs are in the interval $-1 &le; y &le; 1$.
 
 ## Libraries Used:
 pyplot library from Matplotlib is used for plotting.
