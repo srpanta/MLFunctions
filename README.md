@@ -7,7 +7,8 @@ In this function inputs $z$ can be values from the interval $-\infty < z < \inft
 $$y=tanh(z)$$
 In this function inputs $z$ can be values from the interval $-\infty < z < \infty$ while outputs are in the interval $-1 &le; y &le; 1$.
 ### Step Function:
-$$y=1, x &ge; 0$$
+$$y=1, x &ge; 0\\
+=0,x<0$$
 In this function inputs $z$ can be values from the interval $-\infty < z < \infty$ while outputs are in the interval $-1 &le; y &le; 1$.
 $$\begin{array}{ll}
       0 & x\leq a \\
