@@ -6,7 +6,7 @@ In this function inputs $z$ can be values from the interval $-\infty < z < \inft
 ### 2. Step Function:
 In this function gives constant output as $1$ if inputs are positive and gives $0$ output if inputs are less than or equal to zero.
 ### 2. Softmax Function:
-$$soft(z)=\frac{exp(z)}{\sum (exp(z)}$$
+$$soft(z)=\frac{exp(z)}{\sum (exp(z))}$$
 In this function gives constant output as $1$ if inputs are positive and gives $0$ output if inputs are less than or equal to zero.
 
 ### 4. Relu Function:
