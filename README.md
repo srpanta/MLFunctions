@@ -7,7 +7,7 @@ In this function inputs $z$ can be values from the interval $-\infty < z < \inft
 $$y=tanh(z)$$
 In this function inputs $z$ can be values from the interval $-\infty < z < \infty$ while outputs are in the interval $-1 &le; y &le; 1$.
 ### Step Function:
-In this function gives constant output as $1$ if inputs are positive and gives zero output if inputs are less than or equal to zero.
+In this function gives constant output as $1$ if inputs are positive and gives $0$ output if inputs are less than or equal to zero.
 
 ## Libraries Used:
 pyplot library from Matplotlib is used for plotting.
