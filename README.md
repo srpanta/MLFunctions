@@ -12,6 +12,11 @@ In this function gives constant output as $1$ if inputs are positive and gives $
 $$ReLu(x)=x,  x &gt; 0$$
     $$.           =0,  x &le; 0$$
 In this function gives constant output as $0$ if inputs are less than zero and gives input value  itself as output if inputs are greater than or equal to zero.
+### Leaky Relu Function:
+$$lReLu(x)=x,  x &gt; 0$$
+    $$.           =ax,  x &le; 0$$
+where $a$ is a leaky parameter. Generally $a=0.01$ is used.
+In this function gives constant output as $0$ if inputs are less than zero and gives input value  itself as output if inputs are greater than or equal to zero.
 
 ## Libraries Used:
 pyplot library from Matplotlib is used for plotting.
