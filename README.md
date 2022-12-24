@@ -10,7 +10,7 @@ In this function inputs $z$ can be values from the interval $-\infty < z < \inft
 In this function gives constant output as $1$ if inputs are positive and gives $0$ output if inputs are less than or equal to zero.
 ### Relu Function:
 $$ReLu(x)=x,  x &gt; 0$$
-$$.         =0,  x &le; 0$$
+    $$.           =0,  x &le; 0$$
 In this function gives constant output as $0$ if inputs are less than zero and gives input value  itself as output if inputs are greater than or equal to zero.
 
 ## Libraries Used:
